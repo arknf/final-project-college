@@ -1,0 +1,57 @@
+LDOPT       NF+Z1.0280007.849000 -59.000    60.5GLOBMN              NPNP    K                                           
+LCSEL                                                                                                                   
+LCSEL ST         EQP LIVE  CRN                                                                                          
+LCSEL ST        FCW1 FCW2 FCW3 FCW4                                                                                     
+FILE B                                                                                                                  
+CDM                                                                                                                     
+CDM AP                                                                                                                  
+CDM AP                                                                                                                  
+MGROV                                                                                                                   
+MGROV             29.000   2.500        2.5400-4   1.400                                                                
+MGROV     29.000  44.000   5.000        2.5400-4   1.400                                                                
+MGROV     44.000    60.5  10.000        2.5400-4   1.400                                                                
+GRPOV                                                                                                                   
+GRPOVAL        CG NF 0.001  0.001        0.001 0.001.001.001.001.001                                                    
+GRPOVAL        CGDN  0.001  0.001        0.001 0.001.001.001.001.001                                                    
+GRPOVAL        LGS F      1521.86        5.080 5.080                                                                    
+GRPOVAL        PL1NF                                .001.001.001.001                                                    
+GRPOVAL        PL2NF                                .001.001.001.001                                                    
+GRPOVAL        PL3NF                                .001.001.001.001                                                    
+GRPOVAL        PL4NF                                .001.001.001.001                                                    
+GRPOVAL        PL5NF                                .001.001.001.001                                                    
+GRPOVAL        PL6NF                                .001.001.001.001                                                    
+GRPOVAL        PL7NF                                .001.001.001.001                                                    
+GRPOVAL        PL8NF                                .001.001.001.001                                                    
+GRPOVAL        PL9NF                                .001.001.001.001                                                    
+GRPOVAL        W.BNF 0.001  0.001        0.001 0.001.001.001.001.001                                                    
+*DEAD LOAD*                                                                                                             
+LOAD                                                                                                                    
+LOADCNDEAD                                                                                                              
+DEAD                                                                                                                    
+DEAD      -Z                                M                                                                           
+*                                                                                                                       
+*Environmental Load*                                                                                                    
+LOADCNFCW1                                                                                                              
+LOADLBFCW1FATIGUE CENTER OF DAMAGE WAVE 0 DEG                                                                           
+WAVE                                                                                                                    
+WAVE 1.0STOK   2.6  60.56.8904                    D           5.  72MM10 1 1                                            
+LOADCNFCW2                                                                                                              
+LOADLBFCW2FATIGUE CENTER OF DAMAGE WAVE 90 DEG                                                                          
+WAVE                                                                                                                    
+WAVE 1.0STOK   2.5  60.56.8904           90.      D           5.  72MM10 1 1                                            
+LOADCNFCW3                                                                                                              
+LOADLBFCW3FATIGUE CENTER OF DAMAGE WAVE 180 DEG                                                                         
+WAVE                                                                                                                    
+WAVE 1.0STOK    1.  60.55.0529          180.      D           5.  72MM10 1 1                                            
+LOADCNFCW4                                                                                                              
+LOADLBFCW4FATIGUE CENTER OF DAMAGE WAVE 270 DEG                                                                         
+WAVE                                                                                                                    
+WAVE 1.0STOK   1.6  60.5 6.032          270.      D           5.  72MM10 1 1                                            
+*Load Combination*                                                                                                      
+LCOMB                                                                                                                   
+LCOMB 1100  CRN  1.00LIVE  1.00 EQP  1.00DEAD  1.05                                                                     
+LCOMB 1111 1100  1.00FCW1  1.00CRNY  1.00                                                                               
+LCOMB 1112 1100  1.00FCW2  1.00CRNX -1.00                                                                               
+LCOMB 1113 1100  1.00FCW3  1.00CRNY -1.00                                                                               
+LCOMB 1114 1100  1.00FCW4  1.00CRNX  1.00                                                                               
+END                                                                                                                     

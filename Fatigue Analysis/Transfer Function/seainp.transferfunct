@@ -1,0 +1,62 @@
+LDOPT       NF+Z1.0280007.849000 -59.000    60.5GLOBMN TRN         MPT          
+FILE S                                                                          
+CDM                                                                             
+CDM AP                                                                          
+CDM AP                                                                          
+MGROV                                                                           
+MGROV             29.000   2.500        2.5400-4   1.400                        
+MGROV     29.000  44.000   5.000        2.5400-4   1.400                        
+MGROV     44.000    60.5  10.000        2.5400-4   1.400                        
+GRPOV                                                                           
+GRPOVAL        CG NF 0.001  0.001        0.001 0.001.001.001.001.001            
+GRPOVAL        CGDN  0.001  0.001        0.001 0.001.001.001.001.001            
+GRPOVAL        LGS F      1521.86        5.080 5.080                            
+GRPOVAL        PL1NF                                .001.001.001.001            
+GRPOVAL        PL2NF                                .001.001.001.001            
+GRPOVAL        PL3NF                                .001.001.001.001            
+GRPOVAL        PL4NF                                .001.001.001.001            
+GRPOVAL        PL5NF                                .001.001.001.001            
+GRPOVAL        PL6NF                                .001.001.001.001            
+GRPOVAL        PL7NF                                .001.001.001.001            
+GRPOVAL        PL8NF                                .001.001.001.001            
+GRPOVAL        PL9NF                                .001.001.001.001            
+GRPOVAL        W.BNF 0.001  0.001        0.001 0.001.001.001.001.001            
+LOAD                                                                            
+LOADCN   1                                                                      
+GNTRF   AL550   0.07   23.  0.02                    24STOKPR      5.2 0.9       
+GNTRF   AL550   0.07   12.  0.02                    24STOKPR      5.2 0.9       
+LOADCN   2                                                                      
+GNTRF   AL550   0.07   23.  0.02                30. 24STOKPR      5.2 0.9       
+GNTRF   AL550   0.07   12.  0.02                30. 24STOKPR      5.2 0.9       
+LOADCN   3                                                                      
+GNTRF   AL550   0.07   23.  0.02                60. 24STOKPR       5. 0.9       
+GNTRF   AL550   0.07   12.  0.02                60. 24STOKPR       5. 0.9       
+LOADCN   4                                                                      
+GNTRF   AL550   0.07   23.  0.02                90. 24STOKPR       5. 0.9       
+GNTRF   AL550   0.07   12.  0.02                90. 24STOKPR       5. 0.9       
+LOADCN   5                                                                      
+GNTRF   AL550   0.07   23.  0.02               120. 24STOKPR       5. 0.9       
+GNTRF   AL550   0.07   12.  0.02               120. 24STOKPR       5. 0.9       
+LOADCN   6                                                                      
+GNTRF   AL550   0.07   23.  0.02               150. 24STOKPR      3.8 0.9       
+GNTRF   AL550   0.07   12.  0.02               150. 24STOKPR      3.8 0.9       
+LOADCN   7                                                                      
+GNTRF   AL550   0.05   23.  0.02               180. 24STOKPR       2. 0.9       
+GNTRF   AL550   0.05   12.  0.02               180. 24STOKPR       2. 0.9       
+LOADCN   8                                                                      
+GNTRF   AL550   0.05   23.  0.02               210. 24STOKPR      3.2 0.9       
+GNTRF   AL550   0.05   12.  0.02               210. 24STOKPR      3.2 0.9       
+LOADCN   9                                                                      
+GNTRF   AL550   0.05   23.  0.02               240. 24STOKPR      3.2 0.9       
+GNTRF   AL550   0.05   12.  0.02               240. 24STOKPR      3.2 0.9       
+LOADCN  10                                                                      
+GNTRF   AL550   0.05   23.  0.02               270. 24STOKPR      3.2 0.9       
+GNTRF   AL550   0.05   12.  0.02               270. 24STOKPR      3.2 0.9       
+LOADCN  11                                                                      
+GNTRF   AL550   0.07   23.  0.02               300. 24STOKPR       4. 0.9       
+GNTRF   AL550   0.07   12.  0.02               300. 24STOKPR       4. 0.9       
+LOADCN  12                                                                      
+GNTRF   AL550   0.07   23.  0.02               330. 24STOKPR      5.2 0.9       
+GNTRF   AL550   0.07   12.  0.02               330. 24STOKPR      5.2 0.9       
+END                                                                             
+                                                                                

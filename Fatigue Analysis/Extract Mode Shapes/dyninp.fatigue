@@ -1,0 +1,22 @@
+DYNOPT +ZMN 60CONS7.84904          -59.           1.0         SA-Z              
+DYNOP2   1.05    1.                                                             
+GROVR PL2 N .0000254                                                            
+GROVR PL3 N .0000254                                                            
+GROVR PL4 N .0000254                                                            
+GROVR PL5 N .0000254                                                            
+GROVR PL6 N .0000254                                                            
+GROVR PL7 N .0000254                                                            
+GROVR PL8 N .0000254                                                            
+GROVR PL9 N .0000254                                                            
+                                                                                
+*                                                                               
+GROVR C41 N .0000254                                                            
+GROVR C42 N .0000254                                                            
+GROVR C43 N .0000254                                                            
+GROVR C44 N .0000254                                                            
+GROVR C45 N .0000254                                                            
+GROVR C46 N .0000254                                                            
+*                                                                               
+GROVR W.B N .0000254                                                            
+*                                                                               
+END                                                                             

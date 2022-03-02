@@ -1,0 +1,10 @@
+DROPT SPEC  20  +Z  -59.                                                        
+STCMB     1.   1.WGTH  1.0                                                      
+SDAMP        5.                                                                 
+LOAD                                                                            
+SPLOAD  CARD  RSPA  SDO CQC AVD               0.18    1.    1.   0.5 N          
+RSPSPC   1                                                                      
+RSPSPC   6    5.          0.01      0.18       0.2      0.43                    
+RSPSPC                     0.5      0.31        1.       0.2                    
+RSPSPC                      2.      0.12        5.     0.027                    
+END                                                                             

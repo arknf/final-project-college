@@ -1,0 +1,4 @@
+CLPOPT    100  8100        CN    JF  IS                                    0.002
+CLPRPT P1R1M1MP    SMMSPW                                                       
+LDSEQ PU01          VRTC   1         1.1WC40 120          6.                    
+END                                                                             

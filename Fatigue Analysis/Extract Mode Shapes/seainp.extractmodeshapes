@@ -1,0 +1,30 @@
+LDOPT       NF+Z1.0280007.849000 -59.000    60.5GLOBMN              NPNP    K   
+HYDRO +ZAPEXTFLNOPAI      60.5      -59.       2.0     1.025                    
+HYDRO2 UCL0.280ML  0.8  2.0                                                     
+LCSEL DY         EQP LIVE  CRN                                                  
+LCFAC DY     1.0 EQP                                                            
+LCFAC DY     1.0LIVE                                                            
+LCFAC DY     1.0 CRN                                                            
+FILE B                                                                          
+CDM                                                                             
+CDM AP                                                                          
+CDM AP                                                                          
+MGROV                                                                           
+MGROV             29.000   2.500        2.5400-4   1.400                        
+MGROV     29.000  44.000   5.000        2.5400-4   1.400                        
+MGROV     44.000    60.5  10.000        2.5400-4   1.400                        
+GRPOV                                                                           
+GRPOVAL        CG NF 0.001  0.001        0.001 0.001.001.001.001.001            
+GRPOVAL        CGDN  0.001  0.001        0.001 0.001.001.001.001.001            
+GRPOVAL        LGS F      1521.86        5.080 5.080                            
+GRPOVAL        PL1NF                                .001.001.001.001            
+GRPOVAL        PL2NF                                .001.001.001.001            
+GRPOVAL        PL3NF                                .001.001.001.001            
+GRPOVAL        PL4NF                                .001.001.001.001            
+GRPOVAL        PL5NF                                .001.001.001.001            
+GRPOVAL        PL6NF                                .001.001.001.001            
+GRPOVAL        PL7NF                                .001.001.001.001            
+GRPOVAL        PL8NF                                .001.001.001.001            
+GRPOVAL        PL9NF                                .001.001.001.001            
+GRPOVAL        W.BNF 0.001  0.001        0.001 0.001.001.001.001.001            
+END                                                                             

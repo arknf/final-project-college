@@ -1,0 +1,7 @@
+PSTOPT NPT MOD         NST                                                      
+OPTION       MN         UC   1 1   DCCPC    PTPTPTPTPTPTPTPT                    
+LCSEL IN           1    2                                                       
+UCPART                0.7  0.7   1.   1.                                        
+AMOD                                                                            
+AMOD      1   1.7   2   1.7                                                     
+END                                                                             
