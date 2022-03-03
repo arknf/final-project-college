@@ -11,8 +11,9 @@ This repository contains about my final project files, for the full report you c
   9. (Page 151-163) contains reliability analysis (using FORM method)
   10. (Page 164-166) contains closing
 
-Other instruction :
-  1.To see further inplace analysis can see the inplace analysis folder
-  2.To see further seismic analysis can see the seismic analysis folder
-  3.To see further fatigue analysis can see the fatigue analysis folder
-  4.To view the model, see the sacinp.model file
+Other information :
+  1. To see further inplace analysis you can see the inplace analysis folder
+  2. To see further seismic analysis you an see the seismic analysis folder
+  3. To see further fatigue analysis you can see the fatigue analysis folder
+  4. To view the model, see the sacinp.model file
+  5. All of aboove analyzes carried out by SACS Bentley
