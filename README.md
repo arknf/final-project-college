@@ -16,4 +16,4 @@ Other information :
   2. To see further seismic analysis you an see the seismic analysis folder
   3. To see further fatigue analysis you can see the fatigue analysis folder
   4. To view the model, see the sacinp.model file
-  5. All of aboove analyzes carried out by SACS Bentley
+  5. All of above analyzes carried out by SACS Bentley
